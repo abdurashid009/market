@@ -16,7 +16,7 @@ const Navbar = ({ setSearchTerm }) => {
 
   return (
     <nav className='flex justify-between p-8 items-center bg-white shadow'>
-      <h1 className='text-2xl font-bold'>Exclusive</h1>
+      <h1 className='text-2xl font-bold'>Exclusivee</h1>
 
       <ul className='flex items-center gap-10'>
         <li className='cursor-pointer hover:text-blue-600'>Home</li>
